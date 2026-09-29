@@ -1,4 +1,5 @@
 {
+  "id": "shot-timer",
   "name": "Shot Timer",
   "short_name": "Shot Timer",
   "start_url": "./index.html",
